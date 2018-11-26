@@ -1,6 +1,6 @@
 computer
 ice
 apple
-planea
-phonea
-keya
+plane
+phone
+key
