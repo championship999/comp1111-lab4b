@@ -1,3 +1,6 @@
 computer
 ice
 apple
+plane
+phone
+key
