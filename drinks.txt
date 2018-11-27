@@ -1,3 +1,6 @@
 cola
 tea
 water
+milk
+green
+red
