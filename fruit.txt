@@ -1,6 +1,6 @@
 apple
 watermelon
 banana
-peer
-ice
-water
+pearl
+strawberry
+lemon
