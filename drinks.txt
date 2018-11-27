@@ -1,6 +1,6 @@
 cola
 tea
 water
-milke
-greeng
-redd
+milk
+green
+red
